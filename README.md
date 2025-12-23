@@ -1,5 +1,7 @@
 ## Serious Sam Classic
 
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
 This is the source code for Serious Engine v.1.10, including the following projects:
 
 * `DedicatedServer`
